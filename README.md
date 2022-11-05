@@ -1,2 +1,2 @@
-# TestRepForStudy
-Some text
+# RepForStd
+This repository is created for System Code Homework.
