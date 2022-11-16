@@ -1,2 +1,2 @@
 # RepForStd
-This repository is created for System Code Homework.
+This repository is created for keeping System Code Homework.
